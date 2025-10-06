@@ -46,7 +46,7 @@ author = "authors"
 # Social links
 [[params.social]]
 name = "Github"
-icon = "fa-brands fa-github fa-2x"
+iconClass = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/CondimentKiosk/"
 [[params.social]]
