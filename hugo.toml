@@ -1,4 +1,4 @@
-baseurl = "http://www.jculbertcv.com"
+baseurl = "https://jculbertcv.onrender.com"
 title = "Josh CV Site"
 theme = "hugo-coder"
 languagecode = "en"
