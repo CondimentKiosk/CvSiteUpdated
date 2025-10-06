@@ -1,0 +1,84 @@
+baseurl = "http://www.josh-site.com"
+title = "Josh CV Site"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+author = "Joshua Culbert"
+info = "2024/25 MSc Software Development Student"
+description = "Building apps and solving problems."
+keywords = "developer, software, MSc, personal, portfolio"
+avatarurl = "/assets/cropped_circle_image.png"
+
+faviconSVG = "/img/favicon.svg"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
+
+since = 2024
+
+enableTwemoji = true
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+# customCSS = ["css/custom.css"]
+# customSCSS = ["scss/custom.scss"]
+# customJS = ["js/custom.js"]
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/CondimentKiosk/"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/joshua-culbert-a6b5a2223/"
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 3
+url = "mailto:jrculbert113@gmail.com?subject=Hi%20Josh&body=I%20saw%20your%20website%20portfolio%20and..."
+
+
+# Menu links
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+[[menu.main]]
+name = "Projects"
+weight = 2
+url = "projects/"
+[[menu.main]]
+name = "Work Experience"
+weight = 3
+url = "work/"
+[[menu.main]]
+name = "Education"
+weight = 4
+url = "education/"
+[[menu.main]]
+name = "Upcoming"
+weight = 5
+url = "upcoming/"
