@@ -16,7 +16,7 @@ This very site! Designed and built from scratch to showcase my projects, skills,
 
 ---
 
-## Dissertation Project – Hospital Appointment & Health Diary App
+## Hospital Appointment & Health Diary App
 
 **Tech:** Flutter, Dart, MySQL, OCR (Google ML Kit), HTTP, Git, CLI  
 iOS app to help patients manage appointments, medications, and daily health logs as well as build a care-team.  

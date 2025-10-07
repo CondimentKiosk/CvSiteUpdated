@@ -2,7 +2,7 @@
 title: "Hospital Appointment & Health Diary App"
 ---
 
-## Dissertation Project – Hospital Appointment & Health Diary App  
+## Hospital Appointment & Health Diary App  
 
 ## **June - September 2025**
 
@@ -12,7 +12,7 @@ title: "Hospital Appointment & Health Diary App"
 
 ## Overview  
 
-Built as my MSc dissertation project, this mobile app supports chronically and seriously ill patients by centralising their healthcare management. It combines appointment scheduling, medication tracking, and daily health logging into one streamlined platform. The system
+Built for my MSc dissertation project, this mobile app supports chronically and seriously ill patients by centralising their healthcare management. It combines appointment scheduling, medication tracking, and daily health logging into one streamlined platform. The system
 also supports a user to build a care team on the app to help with the faciliatation of their care and treatment plans. User permissions
 were an essential feature to ensure patient health data is secure and private.
 
